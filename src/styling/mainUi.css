@@ -1,0 +1,37 @@
+/* Basic styling */
+
+.update-g-scope {
+    margin: 6%;
+    background-color: rgb(33, 130, 209);
+    color: white;
+    border-radius: 10px;
+}
+
+/* Add this to your CSS */
+.completed-task {
+    text-decoration: line-through;
+  }
+  
+  .edit-button,
+.complete-button,
+.delete-button {
+    /* Common styles for edit, complete, and delete elements go here */
+    
+    text-transform: uppercase;
+    margin: 10px;
+    border-radius: 5px;
+    /* Add any other common styles you want here */
+}
+
+/* Specific styles for each class */
+.edit-button {
+    color: green;
+}
+
+.complete-button {
+    color: blue;
+}
+
+.delete-button {
+    color: red;
+}

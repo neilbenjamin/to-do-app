@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+NEIL'S NOTES
+
+I used basic css stying for this task and it took me some time to wrap my head around using the nested object within the main object. I feel like this chapter needs 3 to 6 months alobe to master. I can see how powerful this is and how useful it is but it will require constant use and practise to master. I took a lot of advice from youTube, Hyperion and openAi to manage this task. Very challenging. 
