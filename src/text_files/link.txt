@@ -1,4 +1,6 @@
 Follow this link for the app deploymen on heroku. 
 https://ancient-temple-98066-b8e211ac60e2.herokuapp.com/
 Please note, as I'm sure you're aware, the pdf notes are outdated and don't work anymore. 
-The buildpacks are updtaed.
+The buildpacks are updated.
+I have added an extra link for bonus task requirements:
+https://young-spire-12085-fda796215c7a.herokuapp.com/

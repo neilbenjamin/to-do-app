@@ -11,9 +11,11 @@ import { createSlice } from "@reduxjs/toolkit";
 //which will be the content of the todolist, one being the content of the list and the other a boolean value. 
 
 const initialToDoState = {
-  nextId: 2,
+  nextId: 3,
   data: {
-    1: {
+    2: {content: "Gwinyai's content",
+    completed: false},
+     1: {
       content: "Content",
       completed: false,
     },
@@ -41,7 +43,7 @@ export const todosSlice = createSlice({
     },
 
     //This changes the initial value inpuuted by declaring a value with the new 
-    //value of the content once the payload has been received.
+    //value of the content once the payload has sbeen received.
     editTodo: (state, action) => {
       const { id, content } = action.payload;
       if (state.value.data[id]) {
